@@ -82,7 +82,7 @@ else if (randomNumber2 === 2){
 else if (randomNumber2 === 3){
 
     image2.setAttribute("src", "images/dice3.png");
-    player2Score.innerHTML = 2;
+    player2Score.innerHTML = 3;
 }
 else if (randomNumber2 === 4){
 
