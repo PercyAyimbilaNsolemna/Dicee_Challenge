@@ -9,9 +9,13 @@ var image1 = document.querySelectorAll("img")[0];
 
 image1.setAttribute("src", randomImage1Source);
 
+/*
+
 var paragraph1 = document.querySelectorAll("p")[1];
 
 paragraph1.innerHTML = randomNumber1;
+
+*/
 
 //Random number generation and image change for player 2
 
@@ -25,9 +29,13 @@ var image2 = document.querySelectorAll("img")[1];
 
 image2.setAttribute("src", randomImage2Source);
 
+/*
+
 var paragraph2 = document.querySelectorAll("p")[3];
 
 paragraph2.innerHTML = randomNumber2;
+
+*/
 
 //Conditional to alert the winner of the game 
 
